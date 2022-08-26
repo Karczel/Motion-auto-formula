@@ -45,3 +45,4 @@ elif t == "":
 # print(f"Final velocity is {}")
 # print(f"Time is {}")
 # print(f"Acceleration is {}")
+
