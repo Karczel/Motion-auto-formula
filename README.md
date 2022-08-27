@@ -1,14 +1,22 @@
 # Physics-Calculator
 
-This repository is for the purpose of simplifying Physics Questions
-And also demonstrate how to do easier and faster
+This repository is for the purpose of simplifying Physics Questions and also demonstrate how to do it easier and faster in every possible way
+
+&nbsp;
 
 You're welcomed to use it for Studying purposes
-Strictingly forbidden in use of Cheating! >:(
+,but strictingly forbidden in use of Cheating! >:(
+
+&nbsp;
+&nbsp;
 
 Detect from the question with out user input may be available in the future
 
+&nbsp;
+
 Order, Quiz and Formula based on books and Physics classes in KU
+
+&nbsp;
 
 1D Motion and Vectors
   1.1 Motion auto formula (Unfinished)
